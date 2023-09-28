@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I'm still studying this side.<br>🔗 Currently interested in websites<br>⚙️ Looking forward to making apps<br>♾️ Hope to make a new discovery someday
+🧠 I'm still studying this side.<br>🔗 Currently interested in devolop & manage websites <br>♾️ i will Hope to make a new discovery soon <br> 🍳 like to build whatsapp , discord & telegram userbot
 
 
 ## 🌐 Socials:
