@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anuwaa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](www.facebook.com/anusara.anu.927) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anusara_bemal/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@anusara_anu) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](766910160219275264)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anusara-bemal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
