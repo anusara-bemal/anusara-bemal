@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-![My Discord](https://discord-readme-badge-git-master-kois-projects-2fbfe44f.vercel.app/api?id=766910160219275264)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=766910160219275264)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anusara-bemal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
