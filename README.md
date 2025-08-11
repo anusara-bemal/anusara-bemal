@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](766910160219275264)<br/>
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=766910160219275264)
 
 # 📊 GitHub Stats:
