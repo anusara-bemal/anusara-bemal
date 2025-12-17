@@ -54,5 +54,5 @@
 
 ---
 <div align="center">
-  <sub>im the #1 looser :(</sub>
+  <sub>"I'm always a loser" :(</sub>
 </div>
