@@ -66,5 +66,5 @@
 
 ---
 <div align="center">
-  <sub>  :)   ---->   :( </sub>
+  <sub>:(</sub>
 </div>
