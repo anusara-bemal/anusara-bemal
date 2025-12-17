@@ -66,5 +66,5 @@
 
 ---
 <div align="center">
-  <sub>Building my foundation since 2025 | Dev: Anusara</sub>
+  <sub>  :)   ---->   :( </sub>
 </div>
