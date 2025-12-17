@@ -1,17 +1,70 @@
-🧠 𝗜'𝗺 𝘀𝘁𝗶𝗹𝗹 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴 𝘁𝗵𝗶𝘀 𝘀𝗶𝗱𝗲.<br>🔗 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 𝗱𝗲𝘃𝗼𝗹𝗼𝗽 & 𝗺𝗮𝗻𝗮𝗴𝗲 𝘄𝗲𝗯𝘀𝗶𝘁𝗲𝘀 <br>♾️ 𝗶 𝘄𝗶𝗹𝗹 𝗛𝗼𝗽𝗲 𝘁𝗼 𝗺𝗮𝗸𝗲 𝗮 𝗻𝗲𝘄 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝘆 𝘀𝗼𝗼𝗻 <br> 🍳 𝗹𝗶𝗸𝗲 𝘁𝗼 𝗯𝘂𝗶𝗹𝗱 𝘄𝗵𝗮𝘁𝘀𝗮𝗽𝗽 , 𝗱𝗶𝘀𝗰𝗼𝗿𝗱 & 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝘂𝘀𝗲𝗿𝗯𝗼𝘁𝘀
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" /> System.init("Anusara Bemal")
+
+**` Explorer // Builder // Self-Learner `**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Building+Digital+Foundations;Exploring+Web+Architecture;Crafting+Automation+Logic;100%+Self-Taught+Journey" alt="Typing SVG" />
+
+---
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](766910160219275264)<br/>
-![My Discord](https://discord-readme-badge.vercel.app/api?id=766910160219275264)
+### 🚀 Tech Arsenal
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,mongodb,git,github,vscode,tailwind,express,replit" />
+  </a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anusara-bemal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anusara-bemal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anusara-bemal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anusara-bemal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧩 Current Development
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" /> **Frontend Architecture:** Learning to translate designs into clean, responsive code.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20" /> **Logic Engineering:** Developing custom userbots for WhatsApp, Discord, & Telegram.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20" /> **System Workflow:** Utilizing Git for version control and VS Code for production.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Seedling.png" width="20" /> **Growth Mindset:** Dedicated to understanding the "why" behind every line of code.
+
+---
+
+### ☕ Support the Build
+<div align="center">
+  <a href="https://www.buymeacoffee.com/anusara_bemal" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 55px !important;width: 200px !important;" >
+  </a>
+</div>
+
+---
+
+### 📊 Performance Monitor
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anusara-bemal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anusara-bemal&theme=tokyonight&hide_border=true" width="48%" /> 
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anusara-bemal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+### 🤝 Connectivity
+<p align="center">
+  <a href="https://discordapp.com/users/766910160219275264" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://discord-readme-badge.vercel.app/api?id=766910160219275264" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anusara-bemal&color=61DAFB&style=flat-square&label=LOG+VISITS" alt="views" />
+</p>
+
+---
+<div align="center">
+  <sub>Building my foundation since 2025 | Dev: Anusara</sub>
+</div>
