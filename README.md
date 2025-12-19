@@ -24,7 +24,7 @@
 <div align="left">
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" /> **Frontend Architecture:** Learning to translate designs into clean, responsive code.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20" /> **Logic Engineering:** Developing custom userbots for WhatsApp, Discord, & Telegram.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20" /> **Logic d:** Developing custom userbots for WhatsApp, Discord, & Telegram.
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20" /> **System Workflow:** Utilizing Git for version control and VS Code for production.
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Seedling.png" width="20" /> **Growth Mindset:** Dedicated to understanding the "why" behind every line of code.
 
