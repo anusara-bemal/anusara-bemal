@@ -42,15 +42,17 @@
 
 ---
 
-### 📊 Performance Monitor
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anusara-bemal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anusara-bemal&theme=tokyonight&hide_border=true" width="48%" />
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anusara-bemal&theme=dark)
+
+  
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anusara-bemal&theme=dark" alt="GitHub Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anusara-bemal&theme=dark&utcOffset=8" alt="Productive" />
+  </p>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anusara-bemal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
 
 ---
 <div align="center">
