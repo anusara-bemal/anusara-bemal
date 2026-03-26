@@ -28,5 +28,5 @@
 
 ---
 <div align="center">
-  <sub><b>"I'm always a loser" :(</b></sub>
+  <b>"I'm always a loser"     :(</b>
 </div>
