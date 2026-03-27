@@ -20,7 +20,7 @@
   
   <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anusara-bemal&theme=dark" alt="GitHub Stats" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anusara-bemal&theme=dark&utcOffset=8" alt="Productive" /> <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" align="right" width="200" />  
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anusara-bemal&theme=dark&utcOffset=8" alt="Productive" />
   </p>
   
 </div>
